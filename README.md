@@ -35,14 +35,6 @@ Open terminal and try execute some kali linux commands
 ![Screenshot 2025-03-28 145058](https://github.com/user-attachments/assets/14ed3af8-db0e-4585-9012-51f6403b314a)
 
 
-## RESULT:
-The Metasploit framework for reconnaissance is examined successfully
-
-
-
-
-
-
 
 ## RESULT:
 The Metasploit framework for reconnaissance is  examined successfully
