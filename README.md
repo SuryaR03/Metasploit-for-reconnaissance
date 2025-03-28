@@ -32,7 +32,8 @@ Open terminal and try execute some kali linux commands
 
 ## OUTPUT:
 
-![zFBjmNXm](https://github.com/user-attachments/assets/cd365fef-c7d0-464d-a744-95defc0daba5)
+![zFBjmNXm](https://github.com/user-attachments/assets/4ef9a1d1-7759-4fb0-8956-036832539b17)
+
 ![Screenshot 2025-03-28 145058](https://github.com/user-attachments/assets/14ed3af8-db0e-4585-9012-51f6403b314a)
 
 
